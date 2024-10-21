@@ -2,9 +2,6 @@
 Using Stow to synchronize MyDotfiles across the machines.
 
 ## Table of Contents
-
-- [STOW My DotFiles](#stow-my-dotfiles)
-  - [Table of Contents](#table-of-contents)
   - [How Stow Works](#how-stow-works)
   - [Using this file with stow](#using-this-file-with-stow)
   - [Adding More or Creating Stows](#adding-more-or-creating-stows)
