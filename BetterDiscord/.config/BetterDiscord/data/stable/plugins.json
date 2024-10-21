@@ -1,0 +1,13 @@
+{
+    "CallTimeCounter": true,
+    "FreeEmojis": true,
+    "PluginRepo": true,
+    "BDFDB": true,
+    "AllCallTimeCounter": true,
+    "VoiceChatNotifications": false,
+    "ZeresPluginLibrary": true,
+    "ReadAllNotificationsButton": true,
+    "GameActivityToggle": true,
+    "ThemeRepo": true,
+    "ServerCounter": true
+}

@@ -1,0 +1,34 @@
+- 1.1.13
+- _NAME: G512 RGB Mechanical Gaming Keyboard
+  _absent: [hi-res-scroll, lowres-scroll-mode, hires-smooth-invert, hires-smooth-resolution, hires-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert,
+    thumb-scroll-mode, onboard_profiles, report_rate_extended, pointer_speed, dpi, dpi_extended, speed-change, backlight, backlight_level, backlight_duration_hands_out,
+    backlight_duration_hands_in, backlight_duration_powered, backlight-timed, rgb_control, rgb_zone_, brightness_control, per-key-lighting, reprogrammable-keys,
+    persistent-remappable-keys, disable-keyboard-keys, crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, multiplatform, change-host, gesture2-gestures,
+    gesture2-divert, gesture2-params, sidetone, equalizer, adc_power_management]
+  _battery: 0
+  _modelId: C33C00000000
+  _sensitive: {report_rate: ignore}
+  _unitId: '30304716'
+  divert-keys: {247: 0, 248: 0, 249: 0, 250: 0}
+  fn-swap: false
+  led_control: 0
+  led_zone_1: !LEDEffectSetting {ID: 0}
+  report_rate: 1
+- _NAME: G502 Gaming Mouse
+  _absent: [hi-res-scroll, lowres-scroll-mode, scroll-ratchet, smart-shift, thumb-scroll-invert, thumb-scroll-mode, report_rate_extended, pointer_speed,
+    dpi_extended, speed-change, backlight, backlight_level, backlight_duration_hands_out, backlight_duration_hands_in, backlight_duration_powered, backlight-timed,
+    rgb_control, rgb_zone_, brightness_control, per-key-lighting, fn-swap, reprogrammable-keys, persistent-remappable-keys, divert-keys, disable-keyboard-keys,
+    crown-smooth, divert-crown, divert-gkeys, m-key-leds, mr-key-led, multiplatform, change-host, gesture2-gestures, gesture2-divert, gesture2-params, sidetone,
+    equalizer, adc_power_management]
+  _battery: 4097
+  _modelId: 407FC08D0000
+  _serial: 79648E39
+  _unitId: 79648E39
+  _wpid: 407F
+  dpi: 800
+  hires-scroll-mode: false
+  hires-smooth-invert: false
+  hires-smooth-resolution: true
+  led_control: 0
+  onboard_profiles: 0
+  report_rate: 1
