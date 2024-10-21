@@ -5,6 +5,7 @@ Using Stow to synchronize MyDotfiles across the machines.
   - [How Stow Works](#how-stow-works)
   - [Using this file with stow](#using-this-file-with-stow)
   - [Adding More or Creating Stows](#adding-more-or-creating-stows)
+  - [VSCodium](#vscodium)
 
 
 ---
@@ -64,3 +65,8 @@ Using Stow to synchronize MyDotfiles across the machines.
 
 > ⛔ Before you Publish or Share your configs make sure all your <mark>Secrets</mark> are safe. 
 ---
+## VSCodium
+
+Make sure you do 
+`ctrl + ship + p`
+` >Sync Settings: Download (repositroy -> user)`
