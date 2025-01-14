@@ -71,3 +71,14 @@ Using Stow to synchronize MyDotfiles across the machines.
 Make sure you do 
 `ctrl + ship + p`
 ` >Sync Settings: Download (repositroy -> user)`
+
+## Troubleshoot
+
+1. Manual Install Auto-Suggestion
+
+   `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+
+2. Manual Install Syntax Highlighting
+
+   `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+
